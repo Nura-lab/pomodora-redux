@@ -18,8 +18,8 @@ html {
 
 
 body {
-  background: rgb(245, 121, 64);
-  background: linear-gradient(180deg, rgb(240, 25, 50) 100%, rgba(241, 183, 107, 0.88) 2%);
+  background: rgb(172, 247, 240);
+  background: linear-gradient(180deg, rgb(174, 219, 240) 100%, rgba(46, 107, 199, 0.88) 2%);
 }
 
 body.workout {
