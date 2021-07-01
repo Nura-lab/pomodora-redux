@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pomodora-redux/precache-manifest.792c5c2ca890724cd925cbd3d5bb6642.js"
+  "/pomodora-redux/precache-manifest.1b5a93f0555b5e5f396a6a17f3eaa899.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pomodora-redux/static/css/main.03a27791.chunk.css",
+    "main.css": "/pomodora-redux/static/css/main.454bf88e.chunk.css",
     "main.js": "/pomodora-redux/static/js/main.f430810a.chunk.js",
     "main.js.map": "/pomodora-redux/static/js/main.f430810a.chunk.js.map",
     "runtime-main.js": "/pomodora-redux/static/js/runtime-main.605fb71d.js",
@@ -8,16 +8,16 @@
     "static/js/2.11aa467a.chunk.js": "/pomodora-redux/static/js/2.11aa467a.chunk.js",
     "static/js/2.11aa467a.chunk.js.map": "/pomodora-redux/static/js/2.11aa467a.chunk.js.map",
     "index.html": "/pomodora-redux/index.html",
-    "precache-manifest.792c5c2ca890724cd925cbd3d5bb6642.js": "/pomodora-redux/precache-manifest.792c5c2ca890724cd925cbd3d5bb6642.js",
+    "precache-manifest.1b5a93f0555b5e5f396a6a17f3eaa899.js": "/pomodora-redux/precache-manifest.1b5a93f0555b5e5f396a6a17f3eaa899.js",
     "service-worker.js": "/pomodora-redux/service-worker.js",
-    "static/css/main.03a27791.chunk.css.map": "/pomodora-redux/static/css/main.03a27791.chunk.css.map",
+    "static/css/main.454bf88e.chunk.css.map": "/pomodora-redux/static/css/main.454bf88e.chunk.css.map",
     "static/js/2.11aa467a.chunk.js.LICENSE.txt": "/pomodora-redux/static/js/2.11aa467a.chunk.js.LICENSE.txt",
     "static/media/bell.flac": "/pomodora-redux/static/media/bell.525320df.flac"
   },
   "entrypoints": [
     "static/js/runtime-main.605fb71d.js",
     "static/js/2.11aa467a.chunk.js",
-    "static/css/main.03a27791.chunk.css",
+    "static/css/main.454bf88e.chunk.css",
     "static/js/main.f430810a.chunk.js"
   ]
 }
